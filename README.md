@@ -90,7 +90,8 @@ Para estabelecer a prioridade dos requisitos foram adotadas as denominações �
 ![Arquitetura](https://github.com/taynara-yt/SmartRoom/blob/main/arquitetura.jpg?raw=true)
 
 ### 4. **Diagrama de Blocos da Aplicação**
-(IMAGEM)
+![Diagrama](https://github.com/taynara-yt/SmartRoom/blob/main/diagrama-de-blocos.jpg?raw=true)
+
 
 ### 5. **Tecnologias**
 Tecnologias que serão utilizadas para o desenvolvimento do projeto
