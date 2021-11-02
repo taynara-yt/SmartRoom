@@ -87,8 +87,7 @@ Para estabelecer a prioridade dos requisitos foram adotadas as denominações �
 |  RN05  | A lâmpada deve ser ativada pelo sensor PIR, somente se o sensor LDR detectar que está escuro. |Essencial |
 
 ### 3. **Arquitetura**
-
-(IMAGEM)
+![Arquitetura](https://github.com/taynara-yt/SmartRoom/blob/main/arquitetura.jpg?raw=true)
 
 ### 4. **Diagrama de Blocos da Aplicação**
 (IMAGEM)
