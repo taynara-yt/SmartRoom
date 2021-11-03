@@ -10,14 +10,15 @@ Projeto e implementação de um sistema embarcado.
 
 - Adriano Gomes, 21751229;
 - Rafael Guedes, 21542175;
-- Taynara Silva, 21751227
+- Taynara Silva, 21751227;
 
 ## Histórico de Versões
 | Versão  |  Data  | Autor  |  Descrição  |
 | ------------------- | ------------------- | ------------------- | ------------------- |
-|  1.0 |  24/08/2021 | @GomesAdriano, @RafaelGuedes e @taynara-yt |  Definição do escopo e tópicos que o compõem, definição dos requisitos funcionais e regras de negócio, criação da arquitetura, diagrama de blocos da aplicação, tecnologias e materiais. |
-|  1.1 |  25/09/2021 | @GomesAdriano, @RafaelGuedes e @taynara-yt |  Atualização de RNs e dos materiais utilizados pelo projeto.|
-| 1.2  |  26/10/2021 |@GomesAdriano, @RafaelGuedes e @taynara-yt | Revisão da arquitetura e do diagrama de blocos. |
+|  1.0 |  24/08/2021 | @GomesAdriano, @RafaelGuedes953 e @taynara-yt |  Definição do escopo e tópicos que o compõem, definição dos requisitos funcionais e regras de negócio, criação da arquitetura, diagrama de blocos da aplicação, tecnologias e materiais. |
+|  1.1 |  25/09/2021 | @GomesAdriano e @taynara-yt |  Atualização de RNs e dos materiais utilizados pelo projeto.|
+| 1.2  |  26/10/2021 |@GomesAdriano e @RafaelGuedes953 | Revisão da arquitetura e do diagrama de blocos. |
+|  1.3 |   04/11/2021 | @RafaelGuedes953 | Adição do protótipo TinkerCad. |
 
 
 ## Sumário
@@ -27,7 +28,7 @@ Projeto e implementação de um sistema embarcado.
 3. **Diagrama de Blocos da Aplicação**
 4. **Tecnologias Utilizadas**
 5. **Materiais**
-6. **Protótipo**
+6. **Protótipo (Simulador)**
     - 6.1 Visão do protótipo
     - 6.2 Acesso ao protótipo
 
