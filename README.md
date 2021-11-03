@@ -10,7 +10,7 @@ Projeto e implementação de um sistema embarcado.
 
 - Adriano Gomes, 21751229;
 - Rafael Guedes, 21542175;
-- Taynara Silva, 21751227;
+- Taynara Silva, 21751227.
 
 ## Histórico de Versões
 | Versão  |  Data  | Autor  |  Descrição  |
