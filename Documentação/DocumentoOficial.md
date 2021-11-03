@@ -15,9 +15,10 @@ Projeto e implementação de um sistema embarcado.
 ## Histórico de Versões
 | Versão  |  Data  | Autor  |  Descrição  |
 | ------------------- | ------------------- | ------------------- | ------------------- |
-|  1.0 |  24/08/2021 | @GomesAdriano, @RafaelGuedes e @taynara-yt |  Definição do escopo e tópicos que o compõem, definição dos requisitos funcionais e regras de negócio, criação da arquitetura, diagrama de blocos da aplicação, tecnologias e materiais. |
-|  1.1 |  25/09/2021 | @GomesAdriano, @RafaelGuedes e @taynara-yt |  Atualização de RNs e dos materiais utilizados pelo projeto.|
-| 1.2  |  26/10/2021 |@GomesAdriano, @RafaelGuedes e @taynara-yt | Revisão da arquitetura e do diagrama de blocos. |
+|  1.0 |  24/08/2021 | @GomesAdriano, @RafaelGuedes953 e @taynara-yt |  Definição do escopo e tópicos que o compõem, definição dos requisitos funcionais e regras de negócio, criação da arquitetura, diagrama de blocos da aplicação, tecnologias e materiais. |
+|  1.1 |  25/09/2021 | @GomesAdriano e @taynara-yt |  Atualização de RNs e dos materiais utilizados pelo projeto.|
+| 1.2  |  26/10/2021 |@GomesAdriano e @RafaelGuedes953 | Revisão da arquitetura e do diagrama de blocos. |
+|  1.3 |   04/11/2021 | @RafaelGuedes953 | Adição do protótipo TinkerCad. |
 
 
 ## Sumário
@@ -87,10 +88,10 @@ Para estabelecer a prioridade dos requisitos foram adotadas as denominações �
 |  RN05  | A lâmpada deve ser ativada pelo sensor PIR, somente se o sensor LDR detectar que está escuro. |Essencial |
 
 ### 3. **Arquitetura**
-![Arquitetura](https://github.com/taynara-yt/SmartRoom/blob/main/arquitetura.jpg?raw=true)
+![Arquitetura](/Imagens/arquitetura.png)
 
 ### 4. **Diagrama de Blocos da Aplicação**
-![Diagrama](https://github.com/taynara-yt/SmartRoom/blob/main/diagrama-de-blocos.jpg?raw=true)
+![Diagrama](/Imagens/diagrama-de-blocos.png)
 
 
 ### 5. **Tecnologias**
@@ -102,13 +103,22 @@ Tecnologias que serão utilizadas para o desenvolvimento do projeto
 Lista de materiais que serão usados para a construção do sistema SmartRoom:
 - 1 Arduino Uno;
 - 1 Sensor PIR;
-- 1 Sensor LDR;
+- 1 Sensor LDR (Fotoresistor);
 - 1 Sensor TMP36;
+- 2 Resistores (220 Ω);
+- 1 Resistor (10 kΩ);
+- 1 Diodo;
+- 1 Transistor NPN (BTJ);
 - Motor CC (Representação do ventilador);
 - Led (Representação da lâmpada).
 
+### 7. **Protótipo (Simulador)**
+**7.1. Visão do circuito do protótipo**
 
+Essa é uma imagem do protótipo do projeto SmartRoom, construído no simulador TinkerCad para demonstrar o funcionamento do sistema pensado e desenvolvido neste projeto.
 
+![Prototipo](/Imagens/prototipo.png)
 
+**7.2. Acesso ao protótipo online**
 
-
+O acesso a prototipação pode ser realizado por meio do [link](https://www.tinkercad.com/things/btz7mZQobbM).
