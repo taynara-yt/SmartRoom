@@ -6,7 +6,7 @@ Projeto e implementação de um sistema embarcado.
 - Documentação SmartRoom atualizada;
 - Protótipo do SmartRoom no thinkercad.
 
-### Discentes
+### Equipe (Discentes)
 
 - Adriano Gomes, 21751229;
 - Rafael Guedes, 21542175;
