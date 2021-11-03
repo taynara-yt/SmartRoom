@@ -21,20 +21,15 @@ Projeto e implementação de um sistema embarcado.
 
 
 ## Sumário
-1.  **Escopo**
-- 1.1. Descrição do Problema
-- 1.2. Objetivos do Projeto
-- 1.3. Abreviações
-- 1.4. Descrição Geral do Sistema
-2.  **Requisitos Gerais do Sistema**
-- 2.1.Prioridades dos Requisitos
-- 2.2. Requisitos Funcionais
-- 2.3. Regras de Negócio
-3. **Arquitetura**
-4. **Diagrama de Blocos da Aplicação**
-5. **Tecnologias**
-6. **Materiais**
-
+1. **Escopo**
+    - 1.1. Descrição Geral do Sistema
+2. **Arquitetura**
+3. **Diagrama de Blocos da Aplicação**
+4. **Tecnologias Utilizadas**
+5. **Materiais**
+6. **Protótipo**
+    - 6.1 Visão do protótipo
+    - 6.2 Acesso ao protótipo
 
 ### 1.  Escopo
 
@@ -46,7 +41,6 @@ O sistema SmartRoom entregará dois dispositivos sendo eles o SmartFan e a Smart
 
 ### 3. **Diagrama de Blocos da Aplicação**
 ![Diagrama](/Imagens/diagrama-de-blocos.png)
-
 
 ### 4. **Tecnologias Utilizadas**
 Tecnologias que serão utilizadas para o desenvolvimento do projeto
