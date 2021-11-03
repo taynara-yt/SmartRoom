@@ -83,8 +83,8 @@ Para estabelecer a prioridade dos requisitos foram adotadas as denominações �
 |--------|--------|--------|
 |  RN01  |  A lâmpada ficará desligada enquanto estiver claro. | Importante |
 |  RN02  | O ventilador deve ser ativado caso a temperatura detectada pelo sensor TMP36 seja acima de 25°. |Importante |
-|  RN03  |  O ventilador deve ser desativado caso a temperatura detectada pelo sensor TMP36 seja abaixo de 19° ou após dois minutos sem detectar presença.   |Essencial |
-|  RN04  | O ventilador pode ser ativado pelo sensor PIR a qualquer momento, mas só será desativado caso o ambiente atinja temperatura 19°, ou após 2 minutos.    |Importante |
+|  RN03  |  O ventilador deve ser desativado caso a temperatura detectada pelo sensor TMP36 seja abaixo de 22°.   |Essencial |
+|  RN04  | O ventilador pode ser ativado pelo sensor PIR a qualquer momento, mas só será desativado caso o ambiente atinja temperatura 22°.    |Importante |
 |  RN05  | A lâmpada deve ser ativada pelo sensor PIR, somente se o sensor LDR detectar que está escuro. |Essencial |
 
 ### 3. **Arquitetura**
